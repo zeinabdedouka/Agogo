@@ -1,0 +1,44 @@
+body{
+    background-color: #4ace97;
+    padding: 0 auto;
+}
+header{
+    border-bottom: solid 1px black;
+}
+.champMin{
+  margin-top: 10%;
+}
+.time{
+    border: none;
+    border-radius: 2px;
+}
+.btn{
+    color: white;
+    border: none !important;
+    padding: 0 !important;
+}
+.btn:hover{
+    color: white;
+    border: none;
+}
+.chrono{
+    margin-top: 40%;
+    font-size: 50px;
+    font-weight: 500;
+    color: white; 
+}
+#beBack{
+    margin-top: 20%;
+    font-size: 50px;
+    font-weight: 500;
+    color: white; 
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hidden{
+    display: none !important;
+}
+button{
+    outline: none !important;
+}
